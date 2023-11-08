@@ -8,9 +8,10 @@ Raw metagenome sequences from which MAGs are curated in this study are deposited
 ## Contributors
 
 [Alon Ginatt](https://www.freilich-lab.com/alon-ginat/) \
+[Maria Berihu](https://www.freilich-lab.com/maria-detailes)
 [Gon Carmi](https://www.freilich-lab.com/members) \
 [Shiri Freilich](https://www.freilich-lab.com/) \
-[Maria Berihu](https://www.freilich-lab.com/maria-detailes)
+
 
 ## References
 
