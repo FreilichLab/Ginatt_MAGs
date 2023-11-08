@@ -1,7 +1,7 @@
 
 ## Ginatt MAGs 
 
-Repository holding all sequences of Metagenome assembled genomes (MAGs) generated in the work of Ginatt et al. 
+Repository holding all de-replicated sequences of Metagenome assembled genomes (MAGs) generated in the work of Ginatt et al. Each folder indicates a specific metagenome assembly, from MAGs were curated. 
 Raw metagenome sequences from which MAGs are curated in this study are deposited in NCBI under BioProject accession number PRJNA779554 
 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA779554). 
 
